@@ -58,8 +58,7 @@ id,dob,percentage,semester,gender,email,name
 1. **Clone the repository**
 
 ```bash
-git clone <your-repository-url>
-cd csv-mongodb-batch
+[git clone [(https://github.com/Vinod-0315/CSV-and-MongoDB-Batch-Processing.git)]]
 ```
 
 2. **Configure MongoDB**
